@@ -1,33 +1,57 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<title> minecraft part 1 deutsch </title>
-<head>
-    <script>
-        var videos = ["https://www.youtube.com/embed/txTup-COEW4",
-		"https://www.youtube.com/embed/1gKuzvWTVJw",
-		"https://www.youtube.com/embed/J8NzIiCfIFY",
-		"https://www.youtube.com/embed/8g5hf2j54V0"
-		"https://www.youtube.com/embed/NMV2iVetgg8"];
-        window.onload = function () {
-            var playerDiv = document.getElementById("random_player");
-            var player = document.createElement("IFRAME");
-            var randomVideoUrl = videos[Math.floor(Math.random() * videos.length)];
-            player.setAttribute('width', '100%');
-            player.setAttribute('height', '945');
-            player.setAttribute('autoplay', '1');
-            player.setAttribute('allowfullscreen', 'allowfullscreen');
-            player.setAttribute('src', randomVideoUrl);
-            playerDiv.appendChild(player);
-        };
-    </script>
+	<head>
+		<title> minecraft part 1 deutsch </title>
+
+		<!-- META -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="Zeige mir ein Minecraft-Let's Play Part 1">
+		<link rel="icon" href="https://www.fractalcamo.com/uploads/5/9/0/2/5902948/s189772745713394276_p1765_i143_w750.jpeg">
+
+
+		<!-- CSS -->
+		<link href="css/style.css" rel="stylesheet" type="text/css">
+		<link href='https://fonts.googleapis.com/css?family=Josefin+Slab' rel='stylesheet' type='text/css'>
+		<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type='text/css'>
+
+
+		<!-- JS -->
+		<script type="text/javascript" src="js/uselessweb.js?v=1"></script>
+		<script type="text/javascript" src="js/libs/utils.js"></script>
 
 	</head>
+	<body>
 
-<body>
-<center>
-    <div id="random_player" />
-</center>
-</body>
+		<hgroup>
+			<h1> ZEIGE MIR </h1>
+			<h2 id='joint'> EIN ZUFÄLLIGES </h2>
+			<h3> MINECRAFT </h3>
+			<h4> LET'S PLAY </h4>
+			<h5>&rarr;<button id='button'>BITTE</button>&larr;</h5>
+			<script>
+				var uselessWebButton = new uselessWebButton( document.getElementById( 'button' ) ); 
+			</script>
+		</hgroup>
 
+ 		<div class='sharing'>
 
+ 			<!-- Persönliches -->
+ 			<span class='text'>Ein zufälliges, deutsches Minecraft-Let's Play. Basierend auf dem Design von <i> TheUselessWeb </i>  - Von <a href='https://twitch.tv/Erizzle'>Erizzle</a> - <a href='https://twitter.com/dererizzle'>@DerErizzle</a> - <a class='small' href='mailto:eric.boingo@gmail.com?subject=Ein%20weiteres'><i>Hinzufügen</i></a></span>
+ 			<span class='buttons'>
+				<!-- MISC -->
+				<script type="text/javascript">
+				  var _gaq = _gaq || [];
+				  _gaq.push(['_setAccount', 'UA-35944549-1']);
+				  _gaq.push(['_trackPageview']);
+
+				  (function() {
+				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				  })();
+
+				</script>
+			</span>
+		</div>
+	</body>
 </html>
