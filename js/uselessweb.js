@@ -69,6 +69,10 @@ function uselessWebButton(button, popup) {
 		["https://www.youtube.com/embed/Rf0mwYwZ47I?autoplay=1", false],
 		["https://www.youtube.com/embed/itPmSIDgTT0?autoplay=1", false],
 		["https://www.youtube.com/embed/t4pl4PcXCJs?autoplay=1", false],
+		["https://www.youtube.com/embed/7-s11AMT_oI?autoplay=1", false],
+		["https://www.youtube.com/embed/I8TS78IL4BY?autoplay=1", false],
+		["https://www.youtube.com/embed/rE9GrJVCchg?autoplay=1", false],
+		["https://www.youtube.com/embed/7Cqas9N3CtA?autoplay=1", false],
 		
 		//["https://www.youtube.com/embed/?autoplay=1", false],
 	];
