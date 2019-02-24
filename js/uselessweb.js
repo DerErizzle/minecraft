@@ -73,6 +73,7 @@ function uselessWebButton(button, popup) {
 		["https://www.youtube.com/embed/I8TS78IL4BY?autoplay=1", false],
 		["https://www.youtube.com/embed/rE9GrJVCchg?autoplay=1", false],
 		["https://www.youtube.com/embed/7Cqas9N3CtA?autoplay=1", false],
+		["https://www.youtube.com/embed/eFaIBHuczYM?autoplay=1", false],
 		
 		//["https://www.youtube.com/embed/?autoplay=1", false],
 	];
