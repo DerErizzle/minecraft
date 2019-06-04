@@ -69,7 +69,7 @@ function uselessWebButton(button, popup) {
 		["https://www.youtube.com/embed/Tn2Lr8wHwgQ?autoplay=1", false],
 		["https://www.youtube.com/embed/7VNEmPO1VUI?autoplay=1", false],
 		
-		
+
 		//["https://www.youtube.com/embed/?autoplay=1", false],
 	];
 
