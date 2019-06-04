@@ -12,13 +12,10 @@ function uselessWebButton(button, popup) {
 		["https://www.youtube.com/embed/2YIFmYUH8pk?autoplay=1", false],
 		["https://www.youtube.com/embed/txTup-COEW4?autoplay=1", false],
 		["https://www.youtube.com/embed/1gKuzvWTVJw?autoplay=1", false],
-		//["https://www.youtube.com/embed/J8NzIiCfIFY", false], Einbetten verboten
 		["https://www.youtube.com/embed/8g5hf2j54V0?autoplay=1", false],
-		//["https://www.youtube.com/embed/NMV2iVetgg8?autoplay=1", false], Gelöscht
 		["https://www.youtube.com/embed/lR2UOUTglOM?autoplay=1", false],
 		["https://www.youtube.com/embed/MirHomiL2t0?autoplay=1", false],
 		["https://www.youtube.com/embed/YQAuu-WHWA8?autoplay=1", false],
-		//["https://www.youtube.com/embed/siKBgyKJMxA?autoplay=1", false], Gelöscht
 		["https://www.youtube.com/embed/PL5MWmaVlAg?autoplay=1", false],
 		["https://www.youtube.com/embed/yRmI8r92rxE?autoplay=1", false],
 		["https://www.youtube.com/embed/XFtuITgBLEQ?autoplay=1", false],
@@ -27,7 +24,6 @@ function uselessWebButton(button, popup) {
 		["https://www.youtube.com/embed/RVXxIQWmtiY?autoplay=1", false],
 		["https://www.youtube.com/embed/gx2yBqAgb24?autoplay=1", false],
 		["https://www.youtube.com/embed/yi9q6W9AZIU?autoplay=1", false],
-		//["https://www.youtube.com/embed/u_G3RU0j-rY?autoplay=1", false], Gelöscht
 		["https://www.youtube.com/embed/sS13Ov_fDHU?autoplay=1", false],
 		["https://www.youtube.com/embed/uDTZd3sGs2E?autoplay=1", false],
 		["https://www.youtube.com/embed/VIAoCArhf7k?autoplay=1", false],
@@ -39,24 +35,19 @@ function uselessWebButton(button, popup) {
 		["https://www.youtube.com/embed/LO1K5Pjzhr8?autoplay=1", false],
 		["https://www.youtube.com/embed/G8VqnNrXiOQ?autoplay=1", false],
 		["https://www.youtube.com/embed/-eVEF8Wgzwo?autoplay=1", false],
-		//["https://www.youtube.com/embed/NMV2iVetgg8?autoplay=1", false], Gelöscht
 		["https://www.youtube.com/embed/-2I-5_nR4T0?autoplay=1", false],
 		["https://www.youtube.com/embed/dEO2r5RcwZY?autoplay=1", false],
 		["https://www.youtube.com/embed/ycSPczkV9XY?autoplay=1", false],
 		["https://www.youtube.com/embed/Tbpw2YdGP6U?autoplay=1", false],
 		["https://www.youtube.com/embed/1n_xEGiY1Yk?autoplay=1", false],
-		//["https://www.youtube.com/embed/JxgsImuZZQs?autoplay=1", false], Gelöscht
-		//["https://www.youtube.com/embed/UdPsTx_MeJM?autoplay=1", false], Einbetten verboten
 		["https://www.youtube.com/embed/GXd3AleK7kg?autoplay=1", false],
 		["https://www.youtube.com/embed/I7VKCoKElqg?autoplay=1", false],
 		["https://www.youtube.com/embed/2va_b_ths7I?autoplay=1", false],
 		["https://www.youtube.com/embed/1VdqT-4o-Ok?autoplay=1", false],
 		["https://www.youtube.com/embed/LpC0Oa-ULTo?autoplay=1", false],
 		["https://www.youtube.com/embed/C_f5Cb8g0FY?autoplay=1", false],
-		//["https://www.youtube.com/embed/fmHa0kX2agM?autoplay=1", false], Gelöcht
 		["https://www.youtube.com/embed/xqdQ5j1cbnA?autoplay=1", false],
 		["https://www.youtube.com/embed/FMDBoqQDolY?autoplay=1", false],
-		//["https://www.youtube.com/embed/WGgiOkLj66Y?autoplay=1", false], Gelöscht
 		["https://www.youtube.com/embed/mntTCAblptI?autoplay=1", false],
 		["https://www.youtube.com/embed/bqnQzX7e-dI?autoplay=1", false],
 		["https://www.youtube.com/embed/5VMQ3jx6ny4?autoplay=1", false],
@@ -66,9 +57,7 @@ function uselessWebButton(button, popup) {
 		["https://www.youtube.com/embed/aI80fipZTjo?autoplay=1", false],
 		["https://www.youtube.com/embed/-8AwF5tFeMs?autoplay=1", false],
 		["https://www.youtube.com/embed/nJFwhL6-zyA?autoplay=1", false],
-		//["https://www.youtube.com/embed/Rf0mwYwZ47I?autoplay=1", false], Gelöscht
 		["https://www.youtube.com/embed/itPmSIDgTT0?autoplay=1", false],
-		//["https://www.youtube.com/embed/t4pl4PcXCJs?autoplay=1", false], Gelöscht
 		["https://www.youtube.com/embed/7-s11AMT_oI?autoplay=1", false],
 		["https://www.youtube.com/embed/I8TS78IL4BY?autoplay=1", false],
 		["https://www.youtube.com/embed/rE9GrJVCchg?autoplay=1", false],
